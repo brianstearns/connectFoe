@@ -16,3 +16,7 @@ A classic Tic Tac Toe game implementation written in Java. Utilizes the command 
 Clone the repo and run the file:
 
 ```src.game```
+
+## Example Game
+
+![Example game of X and O](images/exampleGame.png)
